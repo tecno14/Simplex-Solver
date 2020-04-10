@@ -39,7 +39,11 @@
     <Compile Include="MyMath.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="tst.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Photos\sx21.png" />
+    <Content Include="Photos\sx22.png" />
+    <Content Include="Photos\sx23.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
